@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://lalitk1997@github.io.in](https://lalitk1997.github.io.in)
+- 👨‍💻 All of my projects are available at [https://lalitk1997.github.io.in](https://lalitk1997.github.io.in)
 
 - 📫 How to reach me **lalit.k1997@gmail.com**
 
