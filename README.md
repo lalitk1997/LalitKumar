@@ -10,7 +10,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
-   <i> Aspiring Java Banckend Developer</i>
+   A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.
 </h3
 
 
