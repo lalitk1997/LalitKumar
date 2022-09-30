@@ -23,7 +23,7 @@
 
     🌱 If you think that I can help you, then, feel free to reach out.
    
-       [Check-out My Resume](https://drive.google.com/file/d/1q0IXevvdjSc-p8qA1tMJJrOExLw6B21_/view)
+       
 
 <br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -67,6 +67,7 @@
     <a title="lalit.k1997@gmai.com" href="mailto:lalit.k1997@gmai.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lalit.k1997@gmail.com" />
     </a>
+    
 </p>
 
 <br>
