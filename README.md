@@ -22,6 +22,8 @@
     ⚡ I can do backend development as well as some frontend development using HTML, CSS and JavaScript.
 
     🌱 If you think that I can help you, then, feel free to reach out.
+   
+       [Check-out My Resume](https://drive.google.com/file/d/1q0IXevvdjSc-p8qA1tMJJrOExLw6B21_/view)
 
 <br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
