@@ -62,7 +62,7 @@
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/lalit-kumar97/" />
     </a>
     <a href="https://lalitk1997.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://lalitk1997.github.io/" />
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://lalit-kumar-97.netlify.app/" />
     </a>
     <a title="lalit.k1997@gmai.com" href="mailto:lalit.k1997@gmai.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lalit.k1997@gmail.com" />
